@@ -14,7 +14,7 @@ In this project, we aim towards analyzing and recognizing various words from a d
 ## Requirements
 
 
-- [Python 3.11.8]([[](https://pypi.org/project/pip/)](https://www.python.org/downloads/release/python-3118/)) 
+- [Python 3.11.8](https://www.python.org/downloads/release/python-3118/) 
 - following package
    - openCV
    - tensorflow
